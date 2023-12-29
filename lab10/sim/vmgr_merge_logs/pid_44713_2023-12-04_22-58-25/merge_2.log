@@ -1,0 +1,9 @@
+vmanager: *I,MERGL1: Preparing icc target model ...
+vmanager: *I,MERGL1: Doing model union ...
+vmanager: *I,MERGL2:   With primary run (/home/grads/j/jashwanth45/616/lab-10-Jashwanth2599/lab10/sim/regression/htax_regress.jashwanth45.23_12_04_20_22_01_6416/model_dir): /home/grads/j/jashwanth45/616/lab-10-Jashwanth2599/lab10/sim/regression/htax_regress.jashwanth45.23_12_04_20_22_01_6416/model_dir/icc_4e8e3c4e_1908ec17.ucm
+vmanager: *I,MERGL2:   and following secondary runs:
+vmanager: *I,MERGL3:       /home/grads/j/jashwanth45/616/lab-10-Jashwanth2599/lab10/sim/regression/htax_regress.jashwanth45.23_12_04_20_22_01_6416/model_dir: /home/grads/j/jashwanth45/616/lab-10-Jashwanth2599/lab10/sim/regression/htax_regress.jashwanth45.23_12_04_20_22_01_6416/model_dir/icc_4e8e3c4e_38c2f32f.ucm
+vmanager: *I,MERGL1: Target model generated successfully.
+vmanager: *I,MERGL1: Writing icc model to /home/grads/j/jashwanth45/616/lab-10-Jashwanth2599/lab10/sim/regression/htax_regress.jashwanth45.23_12_04_20_22_01_6416/merged_ucds/default/1701753655168/icc_4e8e3c4e_0ba3be08.ucm(merged)
+vmanager: *I,MERGL1: Writing icc data to /home/grads/j/jashwanth45/616/lab-10-Jashwanth2599/lab10/sim/regression/htax_regress.jashwanth45.23_12_04_20_22_01_6416/merged_ucds/default/1701753655168/merged_tests/icc_4e8e3c4e_0ba3be08.ucd(merged)
+vmanager: *I,coverage.merge_op_done_no_warns: Merge operation (session runs merge) is done without any conflicts.
