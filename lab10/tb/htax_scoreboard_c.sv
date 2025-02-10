@@ -48,7 +48,7 @@ class htax_scoreboard_c extends uvm_scoreboard;
 	endfunction : new
 
 	//Write Method - TX[0] Monitor
-	function void write_tx0_export(htax_tx_mon_packet_c tx_mon_packet);
+	function void write_tx0_export(htax_tx_mon_packet_c tx_mon_packet); //receiver packets from monitor to scoreboard
 		tx_mon_packet.print();
 		push_to_queue(tx_mon_packet);
 	endfunction : write_tx0_export
